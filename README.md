@@ -1,6 +1,7 @@
 # Data-Engineering
-Data ETL using Python and SQL
+Skills gained: Data ETL, Data modelling in SQL, Web Scraping, Python-API integration, Developing automated data-pipelines
 
+Languages & tools leveraged: Python's Beautifulsoup (Web Scraping), MySQL Workbench (Data Modelling), Google Cloud Platform (Cloud pipeline and automation)
 
 
 
